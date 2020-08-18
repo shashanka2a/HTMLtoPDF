@@ -2,6 +2,7 @@ import fitz
 import os
 
 pdfs_path = 'path_to_pdfs'
+imgs_path = 'path_to_imgs'
 
 for f in os.listdir(pdfs_path):
   doc = fitz.open(pdfs_path+f)
