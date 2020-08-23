@@ -1,10 +1,10 @@
 # HTMLtoPDF
 **Aim :** To generate pdfs from HTML templates.
 
-**Problem :**  There were many online solutions specifying ***pdfkit*** which uses * *wkhtmmltopdf* * library.But It requires global installation and manual path configuration.I found it difficult for a beginner to setup and use this.
+**Problem :**  There were many online solutions specifying ***pdfkit*** which uses *wkhtmmltopdf* library.But It requires global installation and manual path configuration.I found it difficult for a beginner to setup and use this.
 
 **Solution :** Finally after scrolling through 10s of websites and posts on stackoverflow,I found this ***WeasyPrint*** package.It was easy to install and run.
-
+ 
 
 WeasyPrint is a smart solution helping web developers to create PDF documents. It turns simple HTML pages into gorgeous statistical reports, invoices, tickets…
 
